@@ -1,0 +1,30 @@
+{   
+   
+   "cursos": [
+    
+        {
+            "id": "1",
+            "estado":"Acre-AC", 
+            "capital": "Rio Branco",
+            "populacao":"3,322 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/acre.png"
+        },
+    
+        {
+            "id": "2",
+            "estado":"Alagoas-AL", 
+            "capital": "Maceió",
+            "populacao":"414 mil",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/alagoas.png"
+        },
+        
+        {
+            "id": "2",
+            "estado":"Amapá-AP", 
+            "capital": "Macapá",
+            "populacao":"751 mil",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/amapa.png"
+        }
+
+    ]
+}
