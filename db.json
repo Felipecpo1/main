@@ -26,6 +26,14 @@
             "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/amapa.png"
         },
 
+        {
+            "id":"amazonas",
+            "estado":"Amazonas-AM", 
+            "capital": "Manaus",
+            "populacao":"3,874 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/amazonas.png"
+        },
+
         {   
             "id": "bahia",
             "estado":"Bahia-BA", 
