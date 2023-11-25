@@ -3,7 +3,7 @@
    "cursos": [
     
         {
-            "id": "1",
+            "id": "acre",
             "estado":"Acre-AC", 
             "capital": "Rio Branco",
             "populacao":"3,322 milhões",
@@ -11,7 +11,7 @@
         },
     
         {
-            "id": "2",
+            "id": "alagoas",
             "estado":"Alagoas-AL", 
             "capital": "Maceió",
             "populacao":"414 mil",
@@ -19,11 +19,195 @@
         },
         
         {
-            "id": "2",
+            "id": "amapa",
             "estado":"Amapá-AP", 
             "capital": "Macapá",
             "populacao":"751 mil",
             "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/amapa.png"
+        },
+
+        {   
+            "id": "bahia",
+            "estado":"Bahia-BA", 
+            "capital": "Salvador",
+            "populacao":"15,13 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/bahia.png"
+        },
+
+        {
+            "id": "ceara",
+            "estado":"Ceará-CE", 
+            "capital": "Fortaleza",
+            "populacao":"8,843 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/ceara.png"
+        },
+
+        {
+            "id": "distrito federal",
+            "estado":"Distrito Federal-DF", 
+            "capital": "Brasília",
+            "populacao":"2,786 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/distrito%20federal.png"
+        },
+
+        {
+            "id": "espirito santo",
+            "estado":"Espírito Santo-ES", 
+            "capital": "Vitória",
+            "populacao":"3,885 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/espirito%20santo.png"
+        },
+
+        {
+            "id": "goias",
+            "estado":"Goiás-GO", 
+            "capital": "Goiânia",
+            "populacao":"6,523 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/goias.png"
+        },
+
+        {
+            "id": "maranhao",
+            "estado":"Maranhão-MA", 
+            "capital": "São Luis",
+            "populacao":"6,851 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/maranhao.png"
+        },
+
+        {
+            "id": "mato grosso do sul",
+            "estado":"Mato Grosso do Sul-MS", 
+            "capital": "Campo Grande",
+            "populacao":"2,62 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/mato%20grosso%20do%20sul.png"
+        },
+
+        {
+            "id": "mato grosso",
+            "estado":"Mato Grosso-MT", 
+            "capital": "Cuiabá",
+            "populacao":"3,224 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/mato%20grosso.png"
+        },
+
+        {
+            "id": "",
+            "estado":"Minas Gerais-MG", 
+            "capital": "Belo Horizonte",
+            "populacao":"20,87 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/minas%20gerais.png"
+        },
+
+        {
+            "id": "para",
+            "estado":"Pará-PA", 
+            "capital": "Belém",
+            "populacao":"8,074 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/para.png"
+        },
+
+        {
+            "id": "paraiba",
+            "estado":"Paraíba-PR", 
+            "capital": "João Pessoa",
+            "populacao":"3,944 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/paraiba.png"
+        },
+
+        {
+            "id": "parana",
+            "estado":"Paraná-PR", 
+            "capital": "Curitiba",
+            "populacao":"11,08 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/parana.png"
+        },
+
+        {
+            "id": "pernambuco",
+            "estado":"Pernambuco-PE", 
+            "capital": "Recife",
+            "populacao":"9,278 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/pernambuco.png"
+        },
+
+        {
+            "id": "piaui",
+            "estado":"Piauí-PI", 
+            "capital": "Teresina",
+            "populacao":"3,195 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/piaui.png"
+        },
+
+        {
+            "id": "rio de janeiro",
+            "estado":"Rio de Janeiro-RJ", 
+            "capital": "Rio de Janeiro",
+            "populacao":"6,748 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/rio%20de%20janeiro.png"
+        },
+
+        {
+            "id": "rio grande do norte",
+            "estado":"Rio Grande do Norte-RN", 
+            "capital": "Natal",
+            "populacao":"3,409 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/rio%20grande%20do%20norte.png"
+        },
+
+        {
+            "id": "rio grande do sul",
+            "estado":"Rio Grande do Sul-RS", 
+            "capital": "Porto Alegre",
+            "populacao":"11,29 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/rio%20grande%20do%sul.png"
+        },
+
+        {
+            "id": "rondonia",
+            "estado":"Rondônia-RO", 
+            "capital": "Porto Velho",
+            "populacao":"1,749 milhão",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/acre.png"
+        },
+
+        {
+            "id": "roraima",
+            "estado":"Roraima-RR", 
+            "capital": "Boa Vista",
+            "populacao":"497 mil",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/rondonia.png"
+        },
+
+        {
+            "id": "santa catarina",
+            "estado":"Santa Catarina-SC", 
+            "capital": "Florianópolis",
+            "populacao":"7,165 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/santa%20catarina.png"
+        },
+
+        {
+            "id": "sao paulo",
+            "estado":"São Paulo-SP", 
+            "capital": "São Paulo",
+            "populacao":"44,04 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/sao%20paulo.png"
+        },
+
+        {
+            "id": "sergipe",
+            "estado":"Sergipe-SE", 
+            "capital": "Aracaju",
+            "populacao":"2,22 milhões",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/sergipe.png"
+        },
+
+        {
+            "id": "tocantins",
+            "estado":"Tocantins-TO", 
+            "capital": "Palmas",
+            "populacao":"1,497 milhão",
+            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/tocantins.png"
         }
 
     ]
