@@ -3,7 +3,7 @@
    "cursos": [
     
         {
-            "id": "acre",
+            "id": ["acre", "Acre", "AC"],
             "estado":"Acre-AC", 
             "capital": "Rio Branco",
             "populacao":"3,322 milhões",
