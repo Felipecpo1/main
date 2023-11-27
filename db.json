@@ -9,14 +9,6 @@
             "populacao":"3,322 milhões",
             "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/acre.png"
         },
-
-        {
-            "id": "Acre",
-            "estado":"Acre-AC", 
-            "capital": "Rio Branco",
-            "populacao":"3,322 milhões",
-            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/acre.png"
-        },
     
         {
             "id": "alagoas",
@@ -26,14 +18,6 @@
             "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/alagoas.png"
         },
 
-        {
-            "id": "Amapá",
-            "estado":"Amapá-AP", 
-            "capital": "Macapá",
-            "populacao":"751 mil",
-            "url":"https://raw.githubusercontent.com/Felipecpo1/imagens/main/estados/amapa.png"
-        },
-        
         {
             "id": "amapa",
             "estado":"Amapá-AP", 
@@ -115,7 +99,7 @@
         },
 
         {
-            "id": "",
+            "id": "minas gerais",
             "estado":"Minas Gerais-MG", 
             "capital": "Belo Horizonte",
             "populacao":"20,87 milhões",
